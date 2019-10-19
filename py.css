@@ -1,0 +1,22 @@
+body
+{
+	background-image: url(hsa.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.txta
+{
+	background: transparent;
+	color: white;
+	border: blue;
+}
+
+h2
+{
+	color: white;
+}
+h1
+{
+	color: yellow;
+}
